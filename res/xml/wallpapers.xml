@@ -16,25 +16,7 @@
 -->
 <wallpapers>
 
-    <category id="radiant_glow" title="@string/category_radiant_glow" featured="radiant_glow_rings_3">
-
-        <static-wallpaper
-            id="radiant_glow_arrow_5"
-            src="@drawable/radiant_glow_arrow_5"
-            title="@string/wallpaper_radiant_glow_arrow_5"
-            subtitle1="@string/author_infinitum" />
-
-        <static-wallpaper
-            id="radiant_glow_arrow_4"
-            src="@drawable/radiant_glow_arrow_4"
-            title="@string/wallpaper_radiant_glow_arrow_4"
-            subtitle1="@string/author_infinitum" />
-
-        <static-wallpaper
-            id="radiant_glow_arrow_6"
-            src="@drawable/radiant_glow_arrow_6"
-            title="@string/wallpaper_radiant_glow_arrow_6"
-            subtitle1="@string/author_infinitum" />
+    <category id="radiant_glow" title="@string/category_radiant_glow" featured="radiant_glow_rings_1">
 
         <static-wallpaper
             id="radiant_glow_arrow_1"

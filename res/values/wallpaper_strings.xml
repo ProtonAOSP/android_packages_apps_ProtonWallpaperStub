@@ -17,9 +17,6 @@
 <resources>
     <string name="category_radiant_glow">Radiant Glow</string>
     <string name="author_infinitum">by Infinitum</string>
-    <string name="wallpaper_radiant_glow_arrow_5">Arrow • Circular Flame</string>
-    <string name="wallpaper_radiant_glow_arrow_4">Arrow • Circular Forest</string>
-    <string name="wallpaper_radiant_glow_arrow_6">Arrow • Circular Ocean</string>
     <string name="wallpaper_radiant_glow_arrow_1">Arrow • Flame</string>
     <string name="wallpaper_radiant_glow_arrow_2">Arrow • Forest</string>
     <string name="wallpaper_radiant_glow_arrow_3">Arrow • Ocean</string>

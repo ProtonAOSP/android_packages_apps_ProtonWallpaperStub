@@ -10,9 +10,6 @@ WALLPAPERS = {
                 "1": "Flame",
                 "2": "Forest",
                 "3": "Ocean",
-                "4": "Circular Forest",
-                "5": "Circular Flame",
-                "6": "Circular Ocean",
             },
             "Gem": {
                 "1": "Flame",
