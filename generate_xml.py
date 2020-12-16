@@ -20,9 +20,9 @@ WALLPAPERS = {
                 "1": "Forest",
                 "2": "Flame",
                 "3": "Ocean",
-                "4": "Unity Flame",
-                "5": "Unity Forest",
-                "6": "Unity Ocean",
+                "4": "Minimal Flame",
+                "5": "Minimal Forest",
+                "6": "Minimal Ocean",
             },
             "Orbit": {
                 "1": "Flame",
