@@ -163,24 +163,6 @@
             subtitle1="@string/author_infinitum" />
 
         <static-wallpaper
-            id="radiant_glow_cross_5"
-            src="@drawable/radiant_glow_cross_5"
-            title="@string/wallpaper_radiant_glow_cross_5"
-            subtitle1="@string/author_infinitum" />
-
-        <static-wallpaper
-            id="radiant_glow_cross_6"
-            src="@drawable/radiant_glow_cross_6"
-            title="@string/wallpaper_radiant_glow_cross_6"
-            subtitle1="@string/author_infinitum" />
-
-        <static-wallpaper
-            id="radiant_glow_cross_4"
-            src="@drawable/radiant_glow_cross_4"
-            title="@string/wallpaper_radiant_glow_cross_4"
-            subtitle1="@string/author_infinitum" />
-
-        <static-wallpaper
             id="radiant_glow_cross_1"
             src="@drawable/radiant_glow_cross_1"
             title="@string/wallpaper_radiant_glow_cross_1"
