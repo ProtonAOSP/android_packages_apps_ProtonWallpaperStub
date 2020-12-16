@@ -23,12 +23,12 @@
     <string name="wallpaper_radiant_glow_gem_1">Gem • Flame</string>
     <string name="wallpaper_radiant_glow_gem_2">Gem • Forest</string>
     <string name="wallpaper_radiant_glow_gem_3">Gem • Ocean</string>
-    <string name="wallpaper_radiant_glow_hex_2">Hex • Flame</string>
-    <string name="wallpaper_radiant_glow_hex_1">Hex • Forest</string>
-    <string name="wallpaper_radiant_glow_hex_4">Hex • Minimal Flame</string>
-    <string name="wallpaper_radiant_glow_hex_5">Hex • Minimal Forest</string>
-    <string name="wallpaper_radiant_glow_hex_6">Hex • Minimal Ocean</string>
+    <string name="wallpaper_radiant_glow_hex_1">Hex • Flame</string>
+    <string name="wallpaper_radiant_glow_hex_2">Hex • Forest</string>
     <string name="wallpaper_radiant_glow_hex_3">Hex • Ocean</string>
+    <string name="wallpaper_radiant_glow_geometric_2">Geometric • Flame</string>
+    <string name="wallpaper_radiant_glow_geometric_1">Geometric • Forest</string>
+    <string name="wallpaper_radiant_glow_geometric_3">Geometric • Ocean</string>
     <string name="wallpaper_radiant_glow_orbit_1">Orbit • Flame</string>
     <string name="wallpaper_radiant_glow_orbit_2">Orbit • Forest</string>
     <string name="wallpaper_radiant_glow_orbit_3">Orbit • Ocean</string>

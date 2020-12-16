@@ -55,39 +55,39 @@
             subtitle1="@string/author_infinitum" />
 
         <static-wallpaper
-            id="radiant_glow_hex_2"
-            src="@drawable/radiant_glow_hex_2"
-            title="@string/wallpaper_radiant_glow_hex_2"
-            subtitle1="@string/author_infinitum" />
-
-        <static-wallpaper
             id="radiant_glow_hex_1"
             src="@drawable/radiant_glow_hex_1"
             title="@string/wallpaper_radiant_glow_hex_1"
             subtitle1="@string/author_infinitum" />
 
         <static-wallpaper
-            id="radiant_glow_hex_4"
-            src="@drawable/radiant_glow_hex_4"
-            title="@string/wallpaper_radiant_glow_hex_4"
-            subtitle1="@string/author_infinitum" />
-
-        <static-wallpaper
-            id="radiant_glow_hex_5"
-            src="@drawable/radiant_glow_hex_5"
-            title="@string/wallpaper_radiant_glow_hex_5"
-            subtitle1="@string/author_infinitum" />
-
-        <static-wallpaper
-            id="radiant_glow_hex_6"
-            src="@drawable/radiant_glow_hex_6"
-            title="@string/wallpaper_radiant_glow_hex_6"
+            id="radiant_glow_hex_2"
+            src="@drawable/radiant_glow_hex_2"
+            title="@string/wallpaper_radiant_glow_hex_2"
             subtitle1="@string/author_infinitum" />
 
         <static-wallpaper
             id="radiant_glow_hex_3"
             src="@drawable/radiant_glow_hex_3"
             title="@string/wallpaper_radiant_glow_hex_3"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_geometric_2"
+            src="@drawable/radiant_glow_geometric_2"
+            title="@string/wallpaper_radiant_glow_geometric_2"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_geometric_1"
+            src="@drawable/radiant_glow_geometric_1"
+            title="@string/wallpaper_radiant_glow_geometric_1"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_geometric_3"
+            src="@drawable/radiant_glow_geometric_3"
+            title="@string/wallpaper_radiant_glow_geometric_3"
             subtitle1="@string/author_infinitum" />
 
         <static-wallpaper

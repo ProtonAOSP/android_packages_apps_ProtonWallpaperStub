@@ -17,12 +17,14 @@ WALLPAPERS = {
                 "3": "Ocean",
             },
             "Hex": {
+                "1": "Flame",
+                "2": "Forest",
+                "3": "Ocean",
+            },
+            "Geometric": {
                 "1": "Forest",
                 "2": "Flame",
                 "3": "Ocean",
-                "4": "Minimal Flame",
-                "5": "Minimal Forest",
-                "6": "Minimal Ocean",
             },
             "Orbit": {
                 "1": "Flame",
