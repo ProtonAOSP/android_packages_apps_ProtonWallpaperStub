@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+    Copyright (C) 2020 The Proton AOSP Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<wallpapers>
+
+    <category id="radiant_glow" title="@string/category_radiant_glow" featured="radiant_glow_rings_3">
+
+        <static-wallpaper
+            id="radiant_glow_arrow_5"
+            src="@drawable/radiant_glow_arrow_5"
+            title="@string/wallpaper_radiant_glow_arrow_5"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_arrow_4"
+            src="@drawable/radiant_glow_arrow_4"
+            title="@string/wallpaper_radiant_glow_arrow_4"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_arrow_6"
+            src="@drawable/radiant_glow_arrow_6"
+            title="@string/wallpaper_radiant_glow_arrow_6"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_arrow_1"
+            src="@drawable/radiant_glow_arrow_1"
+            title="@string/wallpaper_radiant_glow_arrow_1"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_arrow_2"
+            src="@drawable/radiant_glow_arrow_2"
+            title="@string/wallpaper_radiant_glow_arrow_2"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_arrow_3"
+            src="@drawable/radiant_glow_arrow_3"
+            title="@string/wallpaper_radiant_glow_arrow_3"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_gem_1"
+            src="@drawable/radiant_glow_gem_1"
+            title="@string/wallpaper_radiant_glow_gem_1"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_gem_2"
+            src="@drawable/radiant_glow_gem_2"
+            title="@string/wallpaper_radiant_glow_gem_2"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_gem_3"
+            src="@drawable/radiant_glow_gem_3"
+            title="@string/wallpaper_radiant_glow_gem_3"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_hex_2"
+            src="@drawable/radiant_glow_hex_2"
+            title="@string/wallpaper_radiant_glow_hex_2"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_hex_1"
+            src="@drawable/radiant_glow_hex_1"
+            title="@string/wallpaper_radiant_glow_hex_1"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_hex_3"
+            src="@drawable/radiant_glow_hex_3"
+            title="@string/wallpaper_radiant_glow_hex_3"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_hex_4"
+            src="@drawable/radiant_glow_hex_4"
+            title="@string/wallpaper_radiant_glow_hex_4"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_hex_5"
+            src="@drawable/radiant_glow_hex_5"
+            title="@string/wallpaper_radiant_glow_hex_5"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_hex_6"
+            src="@drawable/radiant_glow_hex_6"
+            title="@string/wallpaper_radiant_glow_hex_6"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_orbit_1"
+            src="@drawable/radiant_glow_orbit_1"
+            title="@string/wallpaper_radiant_glow_orbit_1"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_orbit_2"
+            src="@drawable/radiant_glow_orbit_2"
+            title="@string/wallpaper_radiant_glow_orbit_2"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_orbit_3"
+            src="@drawable/radiant_glow_orbit_3"
+            title="@string/wallpaper_radiant_glow_orbit_3"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_rings_2"
+            src="@drawable/radiant_glow_rings_2"
+            title="@string/wallpaper_radiant_glow_rings_2"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_rings_1"
+            src="@drawable/radiant_glow_rings_1"
+            title="@string/wallpaper_radiant_glow_rings_1"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_rings_3"
+            src="@drawable/radiant_glow_rings_3"
+            title="@string/wallpaper_radiant_glow_rings_3"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_square_2"
+            src="@drawable/radiant_glow_square_2"
+            title="@string/wallpaper_radiant_glow_square_2"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_square_3"
+            src="@drawable/radiant_glow_square_3"
+            title="@string/wallpaper_radiant_glow_square_3"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_square_1"
+            src="@drawable/radiant_glow_square_1"
+            title="@string/wallpaper_radiant_glow_square_1"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_tilt_1"
+            src="@drawable/radiant_glow_tilt_1"
+            title="@string/wallpaper_radiant_glow_tilt_1"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_tilt_2"
+            src="@drawable/radiant_glow_tilt_2"
+            title="@string/wallpaper_radiant_glow_tilt_2"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_tilt_3"
+            src="@drawable/radiant_glow_tilt_3"
+            title="@string/wallpaper_radiant_glow_tilt_3"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_cross_5"
+            src="@drawable/radiant_glow_cross_5"
+            title="@string/wallpaper_radiant_glow_cross_5"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_cross_6"
+            src="@drawable/radiant_glow_cross_6"
+            title="@string/wallpaper_radiant_glow_cross_6"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_cross_4"
+            src="@drawable/radiant_glow_cross_4"
+            title="@string/wallpaper_radiant_glow_cross_4"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_cross_1"
+            src="@drawable/radiant_glow_cross_1"
+            title="@string/wallpaper_radiant_glow_cross_1"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_cross_2"
+            src="@drawable/radiant_glow_cross_2"
+            title="@string/wallpaper_radiant_glow_cross_2"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="radiant_glow_cross_3"
+            src="@drawable/radiant_glow_cross_3"
+            title="@string/wallpaper_radiant_glow_cross_3"
+            subtitle1="@string/author_infinitum" />
+
+    </category>
+
+</wallpapers>

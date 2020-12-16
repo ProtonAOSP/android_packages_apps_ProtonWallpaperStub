@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2020 The Proton AOSP Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources>
+    <string name="category_radiant_glow">Radiant Glow</string>
+    <string name="author_infinitum">by Infinitum</string>
+    <string name="wallpaper_radiant_glow_arrow_5">Arrow • Circular Flame</string>
+    <string name="wallpaper_radiant_glow_arrow_4">Arrow • Circular Forest</string>
+    <string name="wallpaper_radiant_glow_arrow_6">Arrow • Circular Ocean</string>
+    <string name="wallpaper_radiant_glow_arrow_1">Arrow • Flame</string>
+    <string name="wallpaper_radiant_glow_arrow_2">Arrow • Forest</string>
+    <string name="wallpaper_radiant_glow_arrow_3">Arrow • Ocean</string>
+    <string name="wallpaper_radiant_glow_gem_1">Gem • Flame</string>
+    <string name="wallpaper_radiant_glow_gem_2">Gem • Forest</string>
+    <string name="wallpaper_radiant_glow_gem_3">Gem • Ocean</string>
+    <string name="wallpaper_radiant_glow_hex_2">Hex • Flame</string>
+    <string name="wallpaper_radiant_glow_hex_1">Hex • Forest</string>
+    <string name="wallpaper_radiant_glow_hex_3">Hex • Ocean</string>
+    <string name="wallpaper_radiant_glow_hex_4">Hex • Unity Flame</string>
+    <string name="wallpaper_radiant_glow_hex_5">Hex • Unity Forest</string>
+    <string name="wallpaper_radiant_glow_hex_6">Hex • Unity Ocean</string>
+    <string name="wallpaper_radiant_glow_orbit_1">Orbit • Flame</string>
+    <string name="wallpaper_radiant_glow_orbit_2">Orbit • Forest</string>
+    <string name="wallpaper_radiant_glow_orbit_3">Orbit • Ocean</string>
+    <string name="wallpaper_radiant_glow_rings_2">Rings • Flame</string>
+    <string name="wallpaper_radiant_glow_rings_1">Rings • Forest</string>
+    <string name="wallpaper_radiant_glow_rings_3">Rings • Ocean</string>
+    <string name="wallpaper_radiant_glow_square_2">Square • Flame</string>
+    <string name="wallpaper_radiant_glow_square_3">Square • Forest</string>
+    <string name="wallpaper_radiant_glow_square_1">Square • Ocean</string>
+    <string name="wallpaper_radiant_glow_tilt_1">Tilt • Flame</string>
+    <string name="wallpaper_radiant_glow_tilt_2">Tilt • Forest</string>
+    <string name="wallpaper_radiant_glow_tilt_3">Tilt • Ocean</string>
+    <string name="wallpaper_radiant_glow_cross_5">Cross • Elevated Flame</string>
+    <string name="wallpaper_radiant_glow_cross_6">Cross • Elevated Forest</string>
+    <string name="wallpaper_radiant_glow_cross_4">Cross • Elevated Ocean</string>
+    <string name="wallpaper_radiant_glow_cross_1">Cross • Flame</string>
+    <string name="wallpaper_radiant_glow_cross_2">Cross • Forest</string>
+    <string name="wallpaper_radiant_glow_cross_3">Cross • Ocean</string>
+</resources>
