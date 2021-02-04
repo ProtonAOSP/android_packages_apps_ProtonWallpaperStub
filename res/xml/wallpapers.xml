@@ -182,4 +182,32 @@
 
     </category>
 
+    <category id="space" title="@string/category_space" featured="space_strange_landscape_1">
+
+        <static-wallpaper
+            id="space_as_seen_from_mars_1"
+            src="@drawable/space_as_seen_from_mars_1"
+            title="@string/wallpaper_space_as_seen_from_mars_1"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="space_blue_giant_1"
+            src="@drawable/space_blue_giant_1"
+            title="@string/wallpaper_space_blue_giant_1"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="space_strange_solar_planets_1"
+            src="@drawable/space_strange_solar_planets_1"
+            title="@string/wallpaper_space_strange_solar_planets_1"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="space_strange_landscape_1"
+            src="@drawable/space_strange_landscape_1"
+            title="@string/wallpaper_space_strange_landscape_1"
+            subtitle1="@string/author_infinitum" />
+
+    </category>
+
 </wallpapers>

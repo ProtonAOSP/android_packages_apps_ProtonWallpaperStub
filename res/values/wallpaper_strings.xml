@@ -44,4 +44,9 @@
     <string name="wallpaper_radiant_glow_cross_1">Cross • Flame</string>
     <string name="wallpaper_radiant_glow_cross_2">Cross • Forest</string>
     <string name="wallpaper_radiant_glow_cross_3">Cross • Ocean</string>
+    <string name="category_space">Space</string>
+    <string name="wallpaper_space_as_seen_from_mars_1">As Seen From Mars</string>
+    <string name="wallpaper_space_blue_giant_1">Blue Giant</string>
+    <string name="wallpaper_space_strange_solar_planets_1">Strange Solar Planets</string>
+    <string name="wallpaper_space_strange_landscape_1">Strange Landscape</string>
 </resources>

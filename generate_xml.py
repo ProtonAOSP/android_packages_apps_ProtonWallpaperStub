@@ -53,6 +53,24 @@ WALLPAPERS = {
             },
         },
     },
+    "Space": {
+        "author": "Infinitum",
+        "featured": "space_strange_landscape_1",
+        "wallpapers": {
+            "As Seen From Mars": {
+                "1": "",
+            },
+            "Blue Giant": {
+                "1": "",
+            },
+            "Strange Solar Planets": {
+                "1": "",
+            },
+            "Strange Landscape": {
+                "1": "",
+            },
+        },
+    },
 }
 
 WALLPAPERS_XML_HEADER = """<?xml version="1.0" encoding="utf-8" ?>
@@ -122,7 +140,11 @@ with open("res/xml/wallpapers.xml", "w+") as f:
 
             for wp_id, wp_name in sorted(wallpapers.items(), key=lambda w: w[1]):
                 wp_res_id = f"{category_id}_{set_id}_{wp_id}"
-                strings[f"wallpaper_{wp_res_id}"] = f"{set_name} \u2022 {wp_name}"
+
+                wp_user_name = set_name
+                if wp_name:
+                    wp_user_name += f" \u2022 {wp_name}"
+                strings[f"wallpaper_{wp_res_id}"] = wp_user_name
 
                 f.write(f"""
 
