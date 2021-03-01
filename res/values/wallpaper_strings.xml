@@ -49,4 +49,21 @@
     <string name="wallpaper_space_blue_giant_1">Blue Giant</string>
     <string name="wallpaper_space_strange_solar_planets_1">Strange Solar Planets</string>
     <string name="wallpaper_space_strange_landscape_1">Strange Landscape</string>
+    <string name="category_strange_dimension">Strange Dimension</string>
+    <string name="wallpaper_strange_dimension_vortex_1">Vortex • Flat</string>
+    <string name="wallpaper_strange_dimension_vortex_2">Vortex • Flower</string>
+    <string name="wallpaper_strange_dimension_vortex_3">Vortex • Portal</string>
+    <string name="wallpaper_strange_dimension_vortex_4">Vortex • Sun</string>
+    <string name="wallpaper_strange_dimension_fractal_5">Fractal • Crimson Blue</string>
+    <string name="wallpaper_strange_dimension_fractal_4">Fractal • Disaster</string>
+    <string name="wallpaper_strange_dimension_fractal_1">Fractal • Hypnotic</string>
+    <string name="wallpaper_strange_dimension_fractal_2">Fractal • Rotor</string>
+    <string name="wallpaper_strange_dimension_fractal_3">Fractal • Star</string>
+    <string name="wallpaper_strange_dimension_warped_1">Warped</string>
+    <string name="wallpaper_strange_dimension_warped_2">Warped • Corrupted</string>
+    <string name="wallpaper_strange_dimension_warped_7">Warped • Corrupted Fluid</string>
+    <string name="wallpaper_strange_dimension_warped_3">Warped • Flare</string>
+    <string name="wallpaper_strange_dimension_warped_4">Warped • Fluid</string>
+    <string name="wallpaper_strange_dimension_warped_5">Warped • Matter</string>
+    <string name="wallpaper_strange_dimension_warped_6">Warped • Stars</string>
 </resources>

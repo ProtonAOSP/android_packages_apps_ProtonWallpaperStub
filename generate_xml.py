@@ -71,6 +71,34 @@ WALLPAPERS = {
             },
         },
     },
+    "Strange Dimension": {
+        "author": "Infinitum",
+        "featured": "strange_dimension_vortex_3",
+        "wallpapers": {
+            "Vortex": {
+                "1": "Flat",
+                "2": "Flower",
+                "3": "Portal",
+                "4": "Sun",
+            },
+            "Fractal": {
+                "1": "Hypnotic",
+                "2": "Rotor",
+                "3": "Star",
+                "4": "Disaster",
+                "5": "Crimson Blue",
+            },
+            "Warped": {
+                "1": "",
+                "2": "Corrupted",
+                "3": "Flare",
+                "4": "Fluid",
+                "5": "Matter",
+                "6": "Stars",
+                "7": "Corrupted Fluid",
+            },
+        },
+    },
 }
 
 WALLPAPERS_XML_HEADER = """<?xml version="1.0" encoding="utf-8" ?>

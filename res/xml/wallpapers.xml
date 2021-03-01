@@ -210,4 +210,104 @@
 
     </category>
 
+    <category id="strange_dimension" title="@string/category_strange_dimension" featured="strange_dimension_vortex_3">
+
+        <static-wallpaper
+            id="strange_dimension_vortex_1"
+            src="@drawable/strange_dimension_vortex_1"
+            title="@string/wallpaper_strange_dimension_vortex_1"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="strange_dimension_vortex_2"
+            src="@drawable/strange_dimension_vortex_2"
+            title="@string/wallpaper_strange_dimension_vortex_2"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="strange_dimension_vortex_3"
+            src="@drawable/strange_dimension_vortex_3"
+            title="@string/wallpaper_strange_dimension_vortex_3"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="strange_dimension_vortex_4"
+            src="@drawable/strange_dimension_vortex_4"
+            title="@string/wallpaper_strange_dimension_vortex_4"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="strange_dimension_fractal_5"
+            src="@drawable/strange_dimension_fractal_5"
+            title="@string/wallpaper_strange_dimension_fractal_5"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="strange_dimension_fractal_4"
+            src="@drawable/strange_dimension_fractal_4"
+            title="@string/wallpaper_strange_dimension_fractal_4"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="strange_dimension_fractal_1"
+            src="@drawable/strange_dimension_fractal_1"
+            title="@string/wallpaper_strange_dimension_fractal_1"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="strange_dimension_fractal_2"
+            src="@drawable/strange_dimension_fractal_2"
+            title="@string/wallpaper_strange_dimension_fractal_2"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="strange_dimension_fractal_3"
+            src="@drawable/strange_dimension_fractal_3"
+            title="@string/wallpaper_strange_dimension_fractal_3"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="strange_dimension_warped_1"
+            src="@drawable/strange_dimension_warped_1"
+            title="@string/wallpaper_strange_dimension_warped_1"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="strange_dimension_warped_2"
+            src="@drawable/strange_dimension_warped_2"
+            title="@string/wallpaper_strange_dimension_warped_2"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="strange_dimension_warped_7"
+            src="@drawable/strange_dimension_warped_7"
+            title="@string/wallpaper_strange_dimension_warped_7"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="strange_dimension_warped_3"
+            src="@drawable/strange_dimension_warped_3"
+            title="@string/wallpaper_strange_dimension_warped_3"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="strange_dimension_warped_4"
+            src="@drawable/strange_dimension_warped_4"
+            title="@string/wallpaper_strange_dimension_warped_4"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="strange_dimension_warped_5"
+            src="@drawable/strange_dimension_warped_5"
+            title="@string/wallpaper_strange_dimension_warped_5"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="strange_dimension_warped_6"
+            src="@drawable/strange_dimension_warped_6"
+            title="@string/wallpaper_strange_dimension_warped_6"
+            subtitle1="@string/author_infinitum" />
+
+    </category>
+
 </wallpapers>
