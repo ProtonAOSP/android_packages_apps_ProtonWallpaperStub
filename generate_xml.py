@@ -82,7 +82,7 @@ with open("res/xml/wallpapers.xml", "w+") as f:
 
                 wp_user_name = set_name
                 if wp_name:
-                    wp_user_name += f" \u2022 {wp_name}"
+                    wp_user_name += f" · {wp_name}"
                 strings[f"wallpaper_{wp_res_id}"] = wp_user_name
 
                 f.write(f"""
