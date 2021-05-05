@@ -1,105 +1,7 @@
 #!/usr/bin/env python3
 
-
-WALLPAPERS = {
-    "Radiant Glow": {
-        "author": "Infinitum",
-        "featured": "radiant_glow_rings_1",
-        "wallpapers": {
-            "Arrow": {
-                "1": "Flame",
-                "2": "Forest",
-                "3": "Ocean",
-            },
-            "Gem": {
-                "1": "Flame",
-                "2": "Forest",
-                "3": "Ocean",
-            },
-            "Hex": {
-                "1": "Flame",
-                "2": "Forest",
-                "3": "Ocean",
-            },
-            "Geometric": {
-                "1": "Forest",
-                "2": "Flame",
-                "3": "Ocean",
-            },
-            "Orbit": {
-                "1": "Flame",
-                "2": "Forest",
-                "3": "Ocean",
-            },
-            "Rings": {
-                "1": "Forest",
-                "2": "Flame",
-                "3": "Ocean",
-            },
-            "Square": {
-                "1": "Ocean",
-                "2": "Flame",
-                "3": "Forest",
-            },
-            "Tilt": {
-                "1": "Flame",
-                "2": "Forest",
-                "3": "Ocean",
-            },
-            "Cross": {
-                "1": "Flame",
-                "2": "Forest",
-                "3": "Ocean",
-            },
-        },
-    },
-    "Space": {
-        "author": "Infinitum",
-        "featured": "space_strange_landscape_1",
-        "wallpapers": {
-            "As Seen From Mars": {
-                "1": "",
-            },
-            "Blue Giant": {
-                "1": "",
-            },
-            "Strange Solar Planets": {
-                "1": "",
-            },
-            "Strange Landscape": {
-                "1": "",
-            },
-        },
-    },
-    "Strange Dimension": {
-        "author": "Infinitum",
-        "featured": "strange_dimension_vortex_3",
-        "wallpapers": {
-            "Vortex": {
-                "1": "Flat",
-                "2": "Flower",
-                "3": "Portal",
-                "4": "Sun",
-            },
-            "Fractal": {
-                "1": "Hypnotic",
-                "2": "Rotor",
-                "3": "Star",
-                "4": "Disaster",
-                "5": "Crimson Blue",
-            },
-            "Warped": {
-                "1": "",
-                "2": "Corrupted",
-                "3": "Flare",
-                "4": "Fluid",
-                "5": "Matter",
-                "6": "Stars",
-                "7": "Corrupted Fluid",
-            },
-        },
-    },
-}
+import sys
+import json
 
 WALLPAPERS_XML_HEADER = """<?xml version="1.0" encoding="utf-8" ?>
 <!--
@@ -148,10 +50,14 @@ STRINGS_XML_FOOTER = """
 
 strings = {}
 
+json_path = sys.argv[1] if len(sys.argv) > 1 else "wallpapers.json"
+with open(json_path, "r") as f:
+    wallpapers_data = json.load(f)
+
 with open("res/xml/wallpapers.xml", "w+") as f:
     f.write(WALLPAPERS_XML_HEADER)
 
-    for category_name, cat_info in WALLPAPERS.items():
+    for category_name, cat_info in wallpapers_data.items():
         category_id = category_name.lower().replace(" ", "_")
         strings[f"category_{category_id}"] = category_name
 
