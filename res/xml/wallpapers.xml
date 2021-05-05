@@ -337,9 +337,9 @@
             subtitle1="@string/author_marek_piwnicki" />
 
         <static-wallpaper
-            id="unsplash_waterfall_jungle_ZfdwcbRyxHk"
-            src="@drawable/unsplash_waterfall_jungle_ZfdwcbRyxHk"
-            title="@string/wallpaper_unsplash_waterfall_jungle_ZfdwcbRyxHk"
+            id="unsplash_jungle_waterfall_ZfdwcbRyxHk"
+            src="@drawable/unsplash_jungle_waterfall_ZfdwcbRyxHk"
+            title="@string/wallpaper_unsplash_jungle_waterfall_ZfdwcbRyxHk"
             subtitle1="@string/author_ines_alvarez_fdez" />
 
         <static-wallpaper
