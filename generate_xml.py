@@ -61,10 +61,6 @@ with open("res/xml/wallpapers.xml", "w+") as f:
         category_id = category_name.lower().replace(" ", "_")
         strings[f"category_{category_id}"] = category_name
 
-        author = cat_info["author"]
-        author_id = author.lower().replace(" ", "_")
-        strings[f"author_{author_id}"] = f"by {author}"
-
         f.write(f"""
 
     <category id="{category_id}" title="@string/category_{category_id}" featured="{cat_info['featured']}">""")
@@ -73,6 +69,15 @@ with open("res/xml/wallpapers.xml", "w+") as f:
             set_id = set_name.lower().replace(" ", "_")
 
             for wp_id, wp_name in sorted(wallpapers.items(), key=lambda w: w[1]):
+                # Special "author" key = author override
+                if wp_id == "author":
+                    continue
+
+                # Get contextual author
+                author = wallpapers["author"] if "author" in wallpapers else cat_info["author"]
+                author_id = author.lower().replace(" ", "_")
+                strings[f"author_{author_id}"] = f"by {author}"
+
                 wp_res_id = f"{category_id}_{set_id}_{wp_id}"
 
                 wp_user_name = set_name
