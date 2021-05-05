@@ -340,7 +340,7 @@
             id="unsplash_waterfall_jungle_ZfdwcbRyxHk"
             src="@drawable/unsplash_waterfall_jungle_ZfdwcbRyxHk"
             title="@string/wallpaper_unsplash_waterfall_jungle_ZfdwcbRyxHk"
-            subtitle1="@string/author_ines_álvarez_fdez" />
+            subtitle1="@string/author_ines_alvarez_fdez" />
 
         <static-wallpaper
             id="unsplash_aurora_lights_CgoRzWX4CDg"
