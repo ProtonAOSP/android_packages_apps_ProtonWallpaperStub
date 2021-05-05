@@ -2,6 +2,7 @@
 
 import sys
 import json
+import unicodedata
 
 WALLPAPERS_XML_HEADER = """<?xml version="1.0" encoding="utf-8" ?>
 <!--
@@ -48,6 +49,11 @@ STRINGS_XML_FOOTER = """
 </resources>
 """
 
+# https://stackoverflow.com/a/517974
+def normalize_to_ascii(string):
+    norm_unicode = unicodedata.normalize("NFKD", string)
+    return norm_unicode.encode("ASCII", "ignore").decode()
+
 strings = {}
 
 json_path = sys.argv[1] if len(sys.argv) > 1 else "wallpapers.json"
@@ -75,7 +81,7 @@ with open("res/xml/wallpapers.xml", "w+") as f:
 
                 # Get contextual author
                 author = wallpapers["author"] if "author" in wallpapers else cat_info["author"]
-                author_id = author.lower().replace(" ", "_")
+                author_id = normalize_to_ascii(author).lower().replace(" ", "_")
                 strings[f"author_{author_id}"] = f"by {author}"
 
                 wp_res_id = f"{category_id}_{set_id}_{wp_id}"
