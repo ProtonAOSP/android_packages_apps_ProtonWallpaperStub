@@ -208,6 +208,18 @@
             title="@string/wallpaper_space_strange_landscape_1"
             subtitle1="@string/author_infinitum" />
 
+        <static-wallpaper
+            id="space_unknown_planet_1"
+            src="@drawable/space_unknown_planet_1"
+            title="@string/wallpaper_space_unknown_planet_1"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="space_warp_speed_1"
+            src="@drawable/space_warp_speed_1"
+            title="@string/wallpaper_space_warp_speed_1"
+            subtitle1="@string/author_infinitum" />
+
     </category>
 
     <category id="strange_dimension" title="@string/category_strange_dimension" featured="strange_dimension_vortex_3">
