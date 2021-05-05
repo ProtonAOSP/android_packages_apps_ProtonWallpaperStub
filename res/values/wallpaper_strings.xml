@@ -66,4 +66,24 @@
     <string name="wallpaper_strange_dimension_warped_4">Warped • Fluid</string>
     <string name="wallpaper_strange_dimension_warped_5">Warped • Matter</string>
     <string name="wallpaper_strange_dimension_warped_6">Warped • Stars</string>
+    <string name="category_unsplash">Unsplash</string>
+    <string name="author_vincent_ledvina">by Vincent Ledvina</string>
+    <string name="wallpaper_unsplash_water_stars_bAcR26qMPnY">Water Stars</string>
+    <string name="author_samuel_ferrara">by Samuel Ferrara</string>
+    <string name="wallpaper_unsplash_night_mountain_6dqCCs0vCcU">Night Mountain</string>
+    <string name="author_colin_lloyd">by Colin Lloyd</string>
+    <string name="wallpaper_unsplash_cloudy_mountain_urabtxT2xPY">Cloudy Mountain</string>
+    <string name="author_marek_piwnicki">by Marek Piwnicki</string>
+    <string name="wallpaper_unsplash_twilight_mountain_mt9TrXpGQjo">Twilight Mountain</string>
+    <string name="author_ines_álvarez_fdez">by Ines Álvarez Fdez</string>
+    <string name="wallpaper_unsplash_waterfall_jungle_ZfdwcbRyxHk">Waterfall Jungle</string>
+    <string name="author_benjamin_suter">by Benjamin Suter</string>
+    <string name="wallpaper_unsplash_aurora_lights_CgoRzWX4CDg">Aurora Lights</string>
+    <string name="author_zetong_li">by Zetong Li</string>
+    <string name="wallpaper_unsplash_warm_jellyfish_NAP14GEjvh8">Warm Jellyfish</string>
+    <string name="wallpaper_unsplash_chinese_lantern_SEOhJImTmIA">Chinese Lantern</string>
+    <string name="author_sixteen_miles_out">by Sixteen Miles Out</string>
+    <string name="wallpaper_unsplash_pastel_plant_BaDjCICkyag">Pastel Plant</string>
+    <string name="author_pawel_czerwinski">by Pawel Czerwinski</string>
+    <string name="wallpaper_unsplash_paint_splash_O_KKGafRBMk">Paint Splash</string>
 </resources>

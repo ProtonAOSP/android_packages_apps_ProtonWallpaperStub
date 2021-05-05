@@ -95,5 +95,51 @@
                 "7": "Corrupted Fluid"
             }
         }
+    },
+    "Unsplash": {
+        "author": "Unsplash",
+        "featured": "unsplash_water_stars_bAcR26qMPnY",
+        "wallpapers": {
+            "Water Stars": {
+                "author": "Vincent Ledvina",
+                "bAcR26qMPnY": ""
+            },
+            "Night Mountain": {
+                "author": "Samuel Ferrara",
+                "6dqCCs0vCcU": ""
+            },
+            "Cloudy Mountain": {
+                "author": "Colin Lloyd",
+                "urabtxT2xPY": ""
+            },
+            "Twilight Mountain": {
+                "author": "Marek Piwnicki",
+                "mt9TrXpGQjo": ""
+            },
+            "Waterfall Jungle": {
+                "author": "Ines Álvarez Fdez",
+                "ZfdwcbRyxHk": ""
+            },
+            "Aurora Lights": {
+                "author": "Benjamin Suter",
+                "CgoRzWX4CDg": ""
+            },
+            "Warm Jellyfish": {
+                "author": "Zetong Li",
+                "NAP14GEjvh8": ""
+            },
+            "Chinese Lantern": {
+                "author": "Samuel Ferrara",
+                "SEOhJImTmIA": ""
+            },
+            "Pastel Plant": {
+                "author": "Sixteen Miles Out",
+                "BaDjCICkyag": ""
+            },
+            "Paint Splash": {
+                "author": "Pawel Czerwinski",
+                "O_KKGafRBMk": ""
+            }
+        }
     }
 }

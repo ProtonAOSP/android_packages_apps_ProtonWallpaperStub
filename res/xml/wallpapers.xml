@@ -310,4 +310,68 @@
 
     </category>
 
+    <category id="unsplash" title="@string/category_unsplash" featured="unsplash_water_stars_bAcR26qMPnY">
+
+        <static-wallpaper
+            id="unsplash_water_stars_bAcR26qMPnY"
+            src="@drawable/unsplash_water_stars_bAcR26qMPnY"
+            title="@string/wallpaper_unsplash_water_stars_bAcR26qMPnY"
+            subtitle1="@string/author_vincent_ledvina" />
+
+        <static-wallpaper
+            id="unsplash_night_mountain_6dqCCs0vCcU"
+            src="@drawable/unsplash_night_mountain_6dqCCs0vCcU"
+            title="@string/wallpaper_unsplash_night_mountain_6dqCCs0vCcU"
+            subtitle1="@string/author_samuel_ferrara" />
+
+        <static-wallpaper
+            id="unsplash_cloudy_mountain_urabtxT2xPY"
+            src="@drawable/unsplash_cloudy_mountain_urabtxT2xPY"
+            title="@string/wallpaper_unsplash_cloudy_mountain_urabtxT2xPY"
+            subtitle1="@string/author_colin_lloyd" />
+
+        <static-wallpaper
+            id="unsplash_twilight_mountain_mt9TrXpGQjo"
+            src="@drawable/unsplash_twilight_mountain_mt9TrXpGQjo"
+            title="@string/wallpaper_unsplash_twilight_mountain_mt9TrXpGQjo"
+            subtitle1="@string/author_marek_piwnicki" />
+
+        <static-wallpaper
+            id="unsplash_waterfall_jungle_ZfdwcbRyxHk"
+            src="@drawable/unsplash_waterfall_jungle_ZfdwcbRyxHk"
+            title="@string/wallpaper_unsplash_waterfall_jungle_ZfdwcbRyxHk"
+            subtitle1="@string/author_ines_álvarez_fdez" />
+
+        <static-wallpaper
+            id="unsplash_aurora_lights_CgoRzWX4CDg"
+            src="@drawable/unsplash_aurora_lights_CgoRzWX4CDg"
+            title="@string/wallpaper_unsplash_aurora_lights_CgoRzWX4CDg"
+            subtitle1="@string/author_benjamin_suter" />
+
+        <static-wallpaper
+            id="unsplash_warm_jellyfish_NAP14GEjvh8"
+            src="@drawable/unsplash_warm_jellyfish_NAP14GEjvh8"
+            title="@string/wallpaper_unsplash_warm_jellyfish_NAP14GEjvh8"
+            subtitle1="@string/author_zetong_li" />
+
+        <static-wallpaper
+            id="unsplash_chinese_lantern_SEOhJImTmIA"
+            src="@drawable/unsplash_chinese_lantern_SEOhJImTmIA"
+            title="@string/wallpaper_unsplash_chinese_lantern_SEOhJImTmIA"
+            subtitle1="@string/author_samuel_ferrara" />
+
+        <static-wallpaper
+            id="unsplash_pastel_plant_BaDjCICkyag"
+            src="@drawable/unsplash_pastel_plant_BaDjCICkyag"
+            title="@string/wallpaper_unsplash_pastel_plant_BaDjCICkyag"
+            subtitle1="@string/author_sixteen_miles_out" />
+
+        <static-wallpaper
+            id="unsplash_paint_splash_O_KKGafRBMk"
+            src="@drawable/unsplash_paint_splash_O_KKGafRBMk"
+            title="@string/wallpaper_unsplash_paint_splash_O_KKGafRBMk"
+            subtitle1="@string/author_pawel_czerwinski" />
+
+    </category>
+
 </wallpapers>
