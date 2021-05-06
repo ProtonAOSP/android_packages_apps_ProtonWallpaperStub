@@ -75,8 +75,8 @@ with open("res/xml/wallpapers.xml", "w+") as f:
             set_id = set_name.lower().replace(" ", "_")
 
             for wp_id, wp_name in sorted(wallpapers.items(), key=lambda w: w[1]):
-                # Special "author" key = author override
-                if wp_id == "author":
+                # Ignore special override keys
+                if wp_id == "author" or wp_id == "url":
                     continue
 
                 # Get contextual author
@@ -91,13 +91,24 @@ with open("res/xml/wallpapers.xml", "w+") as f:
                     wp_user_name += f" · {wp_name}"
                 strings[f"wallpaper_{wp_res_id}"] = wp_user_name
 
+                # Open tag and write common attributes
                 f.write(f"""
 
         <static-wallpaper
             id="{wp_res_id}"
             src="@drawable/{wp_res_id}"
             title="@string/wallpaper_{wp_res_id}"
-            subtitle1="@string/author_{author_id}" />""")
+            subtitle1="@string/author_{author_id}\"""")
+
+                # Add action URL, if available
+                if "url" in wallpapers:
+                    strings[f"url_{wp_res_id}"] = wallpapers["url"]
+
+                    f.write(f"""
+            actionUrl="@string/url_{wp_res_id}\"""")
+
+                # End tag
+                f.write(" />")
 
         f.write("""
 
