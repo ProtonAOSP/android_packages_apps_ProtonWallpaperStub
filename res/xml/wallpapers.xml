@@ -328,61 +328,71 @@
             id="unsplash_water_stars_bAcR26qMPnY"
             src="@drawable/unsplash_water_stars_bAcR26qMPnY"
             title="@string/wallpaper_unsplash_water_stars_bAcR26qMPnY"
-            subtitle1="@string/author_vincent_ledvina" />
+            subtitle1="@string/author_vincent_ledvina"
+            actionUrl="@string/url_unsplash_water_stars_bAcR26qMPnY" />
 
         <static-wallpaper
             id="unsplash_night_mountain_6dqCCs0vCcU"
             src="@drawable/unsplash_night_mountain_6dqCCs0vCcU"
             title="@string/wallpaper_unsplash_night_mountain_6dqCCs0vCcU"
-            subtitle1="@string/author_samuel_ferrara" />
+            subtitle1="@string/author_samuel_ferrara"
+            actionUrl="@string/url_unsplash_night_mountain_6dqCCs0vCcU" />
 
         <static-wallpaper
             id="unsplash_cloudy_mountain_urabtxT2xPY"
             src="@drawable/unsplash_cloudy_mountain_urabtxT2xPY"
             title="@string/wallpaper_unsplash_cloudy_mountain_urabtxT2xPY"
-            subtitle1="@string/author_colin_lloyd" />
+            subtitle1="@string/author_colin_lloyd"
+            actionUrl="@string/url_unsplash_cloudy_mountain_urabtxT2xPY" />
 
         <static-wallpaper
             id="unsplash_twilight_mountain_mt9TrXpGQjo"
             src="@drawable/unsplash_twilight_mountain_mt9TrXpGQjo"
             title="@string/wallpaper_unsplash_twilight_mountain_mt9TrXpGQjo"
-            subtitle1="@string/author_marek_piwnicki" />
+            subtitle1="@string/author_marek_piwnicki"
+            actionUrl="@string/url_unsplash_twilight_mountain_mt9TrXpGQjo" />
 
         <static-wallpaper
             id="unsplash_jungle_waterfall_ZfdwcbRyxHk"
             src="@drawable/unsplash_jungle_waterfall_ZfdwcbRyxHk"
             title="@string/wallpaper_unsplash_jungle_waterfall_ZfdwcbRyxHk"
-            subtitle1="@string/author_ines_alvarez_fdez" />
+            subtitle1="@string/author_ines_alvarez_fdez"
+            actionUrl="@string/url_unsplash_jungle_waterfall_ZfdwcbRyxHk" />
 
         <static-wallpaper
             id="unsplash_aurora_lights_CgoRzWX4CDg"
             src="@drawable/unsplash_aurora_lights_CgoRzWX4CDg"
             title="@string/wallpaper_unsplash_aurora_lights_CgoRzWX4CDg"
-            subtitle1="@string/author_benjamin_suter" />
+            subtitle1="@string/author_benjamin_suter"
+            actionUrl="@string/url_unsplash_aurora_lights_CgoRzWX4CDg" />
 
         <static-wallpaper
             id="unsplash_warm_jellyfish_NAP14GEjvh8"
             src="@drawable/unsplash_warm_jellyfish_NAP14GEjvh8"
             title="@string/wallpaper_unsplash_warm_jellyfish_NAP14GEjvh8"
-            subtitle1="@string/author_zetong_li" />
+            subtitle1="@string/author_zetong_li"
+            actionUrl="@string/url_unsplash_warm_jellyfish_NAP14GEjvh8" />
 
         <static-wallpaper
             id="unsplash_chinese_lantern_SEOhJImTmIA"
             src="@drawable/unsplash_chinese_lantern_SEOhJImTmIA"
             title="@string/wallpaper_unsplash_chinese_lantern_SEOhJImTmIA"
-            subtitle1="@string/author_samuel_ferrara" />
+            subtitle1="@string/author_samuel_ferrara"
+            actionUrl="@string/url_unsplash_chinese_lantern_SEOhJImTmIA" />
 
         <static-wallpaper
             id="unsplash_pastel_plant_BaDjCICkyag"
             src="@drawable/unsplash_pastel_plant_BaDjCICkyag"
             title="@string/wallpaper_unsplash_pastel_plant_BaDjCICkyag"
-            subtitle1="@string/author_sixteen_miles_out" />
+            subtitle1="@string/author_sixteen_miles_out"
+            actionUrl="@string/url_unsplash_pastel_plant_BaDjCICkyag" />
 
         <static-wallpaper
             id="unsplash_paint_splash_O_KKGafRBMk"
             src="@drawable/unsplash_paint_splash_O_KKGafRBMk"
             title="@string/wallpaper_unsplash_paint_splash_O_KKGafRBMk"
-            subtitle1="@string/author_pawel_czerwinski" />
+            subtitle1="@string/author_pawel_czerwinski"
+            actionUrl="@string/url_unsplash_paint_splash_O_KKGafRBMk" />
 
     </category>
 
