@@ -23,7 +23,8 @@
         android:allowBackup="false">
 
         <!-- Doesn't actually need to exist -->
-        <receiver android:name=".PartnerStubReceiver">
+        <receiver android:name=".PartnerStubReceiver"
+            android:exported="true">
             <intent-filter>
                 <action android:name="com.android.launcher3.action.PARTNER_CUSTOMIZATION" />
             </intent-filter>
