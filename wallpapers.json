@@ -172,5 +172,91 @@
                 "O_KKGafRBMk": ""
             }
         }
+    },
+    "Elementary": {
+        "author": "elementary OS",
+        "featured": "elementary_odin_1",
+        "wallpapers": {
+            "Ashim D'Silva": {
+                "author": "Ashim D'Silva",
+                "url": "https://unsplash.com/photos/WeYamle9fDM",
+                "1": ""
+            },
+            "Canazei Granite Ridges": {
+                "author": "Benjamin Voros",
+                "url": "https://unsplash.com/photos/yrwpJwDNSHE",
+                "1": ""
+            },
+            "Jonas Nilsson Lee": {
+                "author": "Jonas Nilsson Lee",
+                "url": "https://unsplash.imgix.net/reserve/QGXfT1CkRpmvlwtPpgul_IMG_0558.jpg?q=75&fm=jpg&s=25c25f99c3faba09b92aacf40a9e9de5",
+                "1": ""
+            },
+            "Julia Craice": {
+                "author": "Julia Craice",
+                "url": "https://unsplash.com/photos/jCHgHnRH4So",
+                "1": ""
+            },
+            "Leigh Kendell 581": {
+                "author": "Leigh Kendell",
+                "url": "https://unsplash.com/photos/-So60UAgCtU",
+                "1": ""
+            },
+            "Martin Adams": {
+                "author": "Martin Adams",
+                "url": "https://unsplash.com/photos/MpTdvXlAsVE",
+                "1": ""
+            },
+            "Morskie Oko": {
+                "author": "Mykyta Martynenko",
+                "url": "https://unsplash.com/photos/_1UF_3TlKcQ",
+                "1": ""
+            },
+            "Mr Lee": {
+                "author": "Jackie Chine",
+                "url": "https://unsplash.com/photos/v7r8kZStqFw",
+                "1": ""
+            },
+            "Nattu Adnan": {
+                "author": "Nattu Adnan",
+                "url": "https://unsplash.com/photos/Ai2TRdvI6gM",
+                "1": ""
+            },
+            "Odin": {
+                "author": "Brendon Porter",
+                "url": "https://github.com/elementary/wallpapers",
+                "1": ""
+            },
+            "Odin Dark": {
+                "author": "Brendon Porter",
+                "url": "https://github.com/elementary/wallpapers",
+                "1": ""
+            },
+            "Photo by SpaceX": {
+                "author": "SpaceX",
+                "url": "https://unsplash.com/photos/VBNb52J8Trk",
+                "1": ""
+            },
+            "Snow-Capped Mountain": {
+                "author": "Ian Beckley",
+                "url": "https://www.pexels.com/photo/photo-of-snow-capped-mountain-under-blue-night-sky-2440024/",
+                "1": ""
+            },
+            "Sunset by the Pier": {
+                "author": "Paul Carmona",
+                "url": "https://unsplash.com/photos/ces8_Bo7bhQ",
+                "1": ""
+            },
+            "Tj Holowaychuk": {
+                "author": "Tj Holowaychuk",
+                "url": "https://unsplash.com/photos/iGrsa9rL11o",
+                "1": ""
+            },
+            "Viktor Forgacs": {
+                "author": "Viktor Forgacs",
+                "url": "https://unsplash.com/photos/q8XSCZYh6D8",
+                "1": ""
+            }
+        }
     }
 }

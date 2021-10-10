@@ -426,4 +426,120 @@
 
     </category>
 
+    <category id="elementary" title="@string/category_elementary" featured="elementary_odin_1">
+
+        <static-wallpaper
+            id="elementary_ashim_dsilva_1"
+            src="@drawable/elementary_ashim_dsilva_1"
+            title="@string/wallpaper_elementary_ashim_dsilva_1"
+            subtitle1="@string/author_ashim_dsilva"
+            actionUrl="@string/url_elementary_ashim_dsilva_1" />
+
+        <static-wallpaper
+            id="elementary_canazei_granite_ridges_1"
+            src="@drawable/elementary_canazei_granite_ridges_1"
+            title="@string/wallpaper_elementary_canazei_granite_ridges_1"
+            subtitle1="@string/author_benjamin_voros"
+            actionUrl="@string/url_elementary_canazei_granite_ridges_1" />
+
+        <static-wallpaper
+            id="elementary_jonas_nilsson_lee_1"
+            src="@drawable/elementary_jonas_nilsson_lee_1"
+            title="@string/wallpaper_elementary_jonas_nilsson_lee_1"
+            subtitle1="@string/author_jonas_nilsson_lee"
+            actionUrl="@string/url_elementary_jonas_nilsson_lee_1" />
+
+        <static-wallpaper
+            id="elementary_julia_craice_1"
+            src="@drawable/elementary_julia_craice_1"
+            title="@string/wallpaper_elementary_julia_craice_1"
+            subtitle1="@string/author_julia_craice"
+            actionUrl="@string/url_elementary_julia_craice_1" />
+
+        <static-wallpaper
+            id="elementary_leigh_kendell_581_1"
+            src="@drawable/elementary_leigh_kendell_581_1"
+            title="@string/wallpaper_elementary_leigh_kendell_581_1"
+            subtitle1="@string/author_leigh_kendell"
+            actionUrl="@string/url_elementary_leigh_kendell_581_1" />
+
+        <static-wallpaper
+            id="elementary_martin_adams_1"
+            src="@drawable/elementary_martin_adams_1"
+            title="@string/wallpaper_elementary_martin_adams_1"
+            subtitle1="@string/author_martin_adams"
+            actionUrl="@string/url_elementary_martin_adams_1" />
+
+        <static-wallpaper
+            id="elementary_morskie_oko_1"
+            src="@drawable/elementary_morskie_oko_1"
+            title="@string/wallpaper_elementary_morskie_oko_1"
+            subtitle1="@string/author_mykyta_martynenko"
+            actionUrl="@string/url_elementary_morskie_oko_1" />
+
+        <static-wallpaper
+            id="elementary_mr_lee_1"
+            src="@drawable/elementary_mr_lee_1"
+            title="@string/wallpaper_elementary_mr_lee_1"
+            subtitle1="@string/author_jackie_chine"
+            actionUrl="@string/url_elementary_mr_lee_1" />
+
+        <static-wallpaper
+            id="elementary_nattu_adnan_1"
+            src="@drawable/elementary_nattu_adnan_1"
+            title="@string/wallpaper_elementary_nattu_adnan_1"
+            subtitle1="@string/author_nattu_adnan"
+            actionUrl="@string/url_elementary_nattu_adnan_1" />
+
+        <static-wallpaper
+            id="elementary_odin_1"
+            src="@drawable/elementary_odin_1"
+            title="@string/wallpaper_elementary_odin_1"
+            subtitle1="@string/author_brendon_porter"
+            actionUrl="@string/url_elementary_odin_1" />
+
+        <static-wallpaper
+            id="elementary_odin_dark_1"
+            src="@drawable/elementary_odin_dark_1"
+            title="@string/wallpaper_elementary_odin_dark_1"
+            subtitle1="@string/author_brendon_porter"
+            actionUrl="@string/url_elementary_odin_dark_1" />
+
+        <static-wallpaper
+            id="elementary_photo_by_spacex_1"
+            src="@drawable/elementary_photo_by_spacex_1"
+            title="@string/wallpaper_elementary_photo_by_spacex_1"
+            subtitle1="@string/author_spacex"
+            actionUrl="@string/url_elementary_photo_by_spacex_1" />
+
+        <static-wallpaper
+            id="elementary_snow_capped_mountain_1"
+            src="@drawable/elementary_snow_capped_mountain_1"
+            title="@string/wallpaper_elementary_snow_capped_mountain_1"
+            subtitle1="@string/author_ian_beckley"
+            actionUrl="@string/url_elementary_snow_capped_mountain_1" />
+
+        <static-wallpaper
+            id="elementary_sunset_by_the_pier_1"
+            src="@drawable/elementary_sunset_by_the_pier_1"
+            title="@string/wallpaper_elementary_sunset_by_the_pier_1"
+            subtitle1="@string/author_paul_carmona"
+            actionUrl="@string/url_elementary_sunset_by_the_pier_1" />
+
+        <static-wallpaper
+            id="elementary_tj_holowaychuk_1"
+            src="@drawable/elementary_tj_holowaychuk_1"
+            title="@string/wallpaper_elementary_tj_holowaychuk_1"
+            subtitle1="@string/author_tj_holowaychuk"
+            actionUrl="@string/url_elementary_tj_holowaychuk_1" />
+
+        <static-wallpaper
+            id="elementary_viktor_forgacs_1"
+            src="@drawable/elementary_viktor_forgacs_1"
+            title="@string/wallpaper_elementary_viktor_forgacs_1"
+            subtitle1="@string/author_viktor_forgacs"
+            actionUrl="@string/url_elementary_viktor_forgacs_1" />
+
+    </category>
+
 </wallpapers>
