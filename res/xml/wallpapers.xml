@@ -222,7 +222,7 @@
 
     </category>
 
-    <category id="strange_dimension" title="@string/category_strange_dimension" featured="strange_dimension_vortex_3">
+    <category id="strange_dimension" title="@string/category_strange_dimension" featured="strange_dimension_strange_ocean_1">
 
         <static-wallpaper
             id="strange_dimension_vortex_1"
@@ -318,6 +318,36 @@
             id="strange_dimension_warped_6"
             src="@drawable/strange_dimension_warped_6"
             title="@string/wallpaper_strange_dimension_warped_6"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="strange_dimension_hint_of_purple_1"
+            src="@drawable/strange_dimension_hint_of_purple_1"
+            title="@string/wallpaper_strange_dimension_hint_of_purple_1"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="strange_dimension_bits_of_red_1"
+            src="@drawable/strange_dimension_bits_of_red_1"
+            title="@string/wallpaper_strange_dimension_bits_of_red_1"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="strange_dimension_fiber_wave_1"
+            src="@drawable/strange_dimension_fiber_wave_1"
+            title="@string/wallpaper_strange_dimension_fiber_wave_1"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="strange_dimension_stone_1"
+            src="@drawable/strange_dimension_stone_1"
+            title="@string/wallpaper_strange_dimension_stone_1"
+            subtitle1="@string/author_infinitum" />
+
+        <static-wallpaper
+            id="strange_dimension_strange_ocean_1"
+            src="@drawable/strange_dimension_strange_ocean_1"
+            title="@string/wallpaper_strange_dimension_strange_ocean_1"
             subtitle1="@string/author_infinitum" />
 
     </category>

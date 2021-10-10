@@ -76,7 +76,7 @@
     },
     "Strange Dimension": {
         "author": "Infinitum",
-        "featured": "strange_dimension_vortex_3",
+        "featured": "strange_dimension_strange_ocean_1",
         "wallpapers": {
             "Vortex": {
                 "1": "Flat",
@@ -99,6 +99,21 @@
                 "5": "Matter",
                 "6": "Stars",
                 "7": "Corrupted Fluid"
+            },
+            "Hint of Purple": {
+                "1": ""
+            },
+            "Bits of Red": {
+                "1": ""
+            },
+            "Fiber Wave": {
+                "1": ""
+            },
+            "Stone": {
+                "1": ""
+            },
+            "Strange Ocean": {
+                "1": ""
             }
         }
     },
