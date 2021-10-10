@@ -15,36 +15,8 @@
     limitations under the License.
 -->
 <resources>
-    <string name="category_radiant_glow">Radiant Glow</string>
-    <string name="author_infinitum">by Infinitum</string>
-    <string name="wallpaper_radiant_glow_arrow_1">Arrow · Flame</string>
-    <string name="wallpaper_radiant_glow_arrow_2">Arrow · Forest</string>
-    <string name="wallpaper_radiant_glow_arrow_3">Arrow · Ocean</string>
-    <string name="wallpaper_radiant_glow_gem_1">Gem · Flame</string>
-    <string name="wallpaper_radiant_glow_gem_2">Gem · Forest</string>
-    <string name="wallpaper_radiant_glow_gem_3">Gem · Ocean</string>
-    <string name="wallpaper_radiant_glow_hex_1">Hex · Flame</string>
-    <string name="wallpaper_radiant_glow_hex_2">Hex · Forest</string>
-    <string name="wallpaper_radiant_glow_hex_3">Hex · Ocean</string>
-    <string name="wallpaper_radiant_glow_geometric_2">Geometric · Flame</string>
-    <string name="wallpaper_radiant_glow_geometric_1">Geometric · Forest</string>
-    <string name="wallpaper_radiant_glow_geometric_3">Geometric · Ocean</string>
-    <string name="wallpaper_radiant_glow_orbit_1">Orbit · Flame</string>
-    <string name="wallpaper_radiant_glow_orbit_2">Orbit · Forest</string>
-    <string name="wallpaper_radiant_glow_orbit_3">Orbit · Ocean</string>
-    <string name="wallpaper_radiant_glow_rings_2">Rings · Flame</string>
-    <string name="wallpaper_radiant_glow_rings_1">Rings · Forest</string>
-    <string name="wallpaper_radiant_glow_rings_3">Rings · Ocean</string>
-    <string name="wallpaper_radiant_glow_square_2">Square · Flame</string>
-    <string name="wallpaper_radiant_glow_square_3">Square · Forest</string>
-    <string name="wallpaper_radiant_glow_square_1">Square · Ocean</string>
-    <string name="wallpaper_radiant_glow_tilt_1">Tilt · Flame</string>
-    <string name="wallpaper_radiant_glow_tilt_2">Tilt · Forest</string>
-    <string name="wallpaper_radiant_glow_tilt_3">Tilt · Ocean</string>
-    <string name="wallpaper_radiant_glow_cross_1">Cross · Flame</string>
-    <string name="wallpaper_radiant_glow_cross_2">Cross · Forest</string>
-    <string name="wallpaper_radiant_glow_cross_3">Cross · Ocean</string>
     <string name="category_space">Space</string>
+    <string name="author_infinitum">by Infinitum</string>
     <string name="wallpaper_space_as_seen_from_mars_1">As Seen From Mars</string>
     <string name="wallpaper_space_blue_giant_1">Blue Giant</string>
     <string name="wallpaper_space_strange_solar_planets_1">Strange Solar Planets</string>
