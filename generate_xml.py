@@ -72,7 +72,7 @@ with open("res/xml/wallpapers.xml", "w+") as f:
     <category id="{category_id}" title="@string/category_{category_id}" featured="{cat_info['featured']}">""")
 
         for set_name, wallpapers in cat_info["wallpapers"].items():
-            set_id = set_name.lower().replace(" ", "_")
+            set_id = normalize_to_ascii(set_name).lower().replace(" ", "_").replace("'", "").replace("-", "_")
 
             for wp_id, wp_name in sorted(wallpapers.items(), key=lambda w: w[1]):
                 # Ignore special override keys
@@ -81,7 +81,7 @@ with open("res/xml/wallpapers.xml", "w+") as f:
 
                 # Get contextual author
                 author = wallpapers["author"] if "author" in wallpapers else cat_info["author"]
-                author_id = normalize_to_ascii(author).lower().replace(" ", "_")
+                author_id = normalize_to_ascii(author).lower().replace(" ", "_").replace("'", "")
                 strings[f"author_{author_id}"] = f"by {author}"
 
                 wp_res_id = f"{category_id}_{set_id}_{wp_id}"
@@ -120,7 +120,8 @@ with open("res/values/wallpaper_strings.xml", "w+") as f:
     f.write(STRINGS_XML_HEADER)
 
     for str_id, value in strings.items():
+        escaped = value.replace("'", r"\'").replace("&", "&amp;")
         f.write(f"""
-    <string name="{str_id}">{value}</string>""")
+    <string name="{str_id}">{escaped}</string>""")
 
     f.write(STRINGS_XML_FOOTER)
